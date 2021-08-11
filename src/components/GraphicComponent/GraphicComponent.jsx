@@ -152,40 +152,6 @@ export class GraphicComponent extends Component {
   }
 }
 
-GraphicComponent.PropTypes = {
-  data: PropTypes.shape({}),
-  colors: PropTypes.arrayOf(PropTypes.string),
-  maxPercent: PropTypes.string,
-  backgroundColor: PropTypes.string,
-  lineColor: PropTypes.string,
-  fontSizeBackground: PropTypes.string,
-  widthGraph: PropTypes.string,
-  heightGraph: PropTypes.string,
-  widthBorder: PropTypes.string,
-  borderColor: PropTypes.string,
-  widthLine: PropTypes.string,
-  fontBackground: PropTypes.string,
-  maxPercent: PropTypes.string,
-  percentSide: PropTypes.string,
-  widthBar: PropTypes.string,
-  fontSizeBar: PropTypes.string,
-  fontBar: PropTypes.string,
-  fontColordifBar: PropTypes.bool,
-  fontColor: PropTypes.string,
-  topPercent: PropTypes.bool,
-  baseName: PropTypes.bool,
-  withLegend: PropTypes.bool,
-  fontLegend: PropTypes.string,
-  fontLegendSize: PropTypes.string,
-  fontColorLegend: PropTypes.string,
-  colorLegend: PropTypes.string,
-  borderLegend: PropTypes.string,
-  colorBorderLegend: PropTypes.string,
-  legendSide: PropTypes.string,
-  legendVertical: PropTypes.string,
-
-}
-
 GraphicComponent.defaultProps = {
   data: { data1: 6, data2: 4},
   colors: ['green', 'red'],
