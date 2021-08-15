@@ -1,6 +1,6 @@
 {
   "name": "stylized-graphic-component",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "component that generates a simple percentage chart with bars, which can be styled with the help of the page.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
