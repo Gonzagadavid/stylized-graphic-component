@@ -7,5 +7,3 @@
 - copy and the object with the style data to a file;
 - install the component;
 - import it and pass the object and data to be rendered as props;
-
-*this version has React 16.12.0 as devDepencies, for old projects*
