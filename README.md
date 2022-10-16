@@ -1,6 +1,6 @@
 # Stylized Graphic Component
 
-## Stylized Percentage Chart is a component that generates a simple percentage chart with bars, which can be styled with the help of the page <a href="https://gonzagadavid.github.io/percentage-chart/">Stylized percentage chart Page</a>
+## Stylized Percentage Chart is a component that generates a simple percentage chart with bars, which can be styled with the help of the page <a href="https://stylized-graphic-component-page-jlve.vercel.app/">Stylized percentage chart Page</a>
 
 - access the page;
 - stylize the chart;
